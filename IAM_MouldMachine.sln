@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication6", "WebApplication6\WebApplication6.csproj", "{6FF40629-0E78-486D-A5A6-885ECF6E8C92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAM_MouldMachine", "IAM_MouldMachine\IAM_MouldMachine.csproj", "{6FF40629-0E78-486D-A5A6-885ECF6E8C92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

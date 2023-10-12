@@ -18,7 +18,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-    <PackageReference Include="Moryx.Identity.AccessManagement" Version="6.0.3" />
+	<PackageReference Include="Moryx.Identity.AccessManagement" Version="6.0.3" />
     <PackageReference Include="Moryx.Launcher" Version="6.4.5" />
     <PackageReference Include="Wibu.CodeMeter" Version="7.21.0" />
   </ItemGroup>
